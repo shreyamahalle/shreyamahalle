@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyamahalle&label=Profile%20views&color=0e75b6&style=flat" alt="shreyamahalle" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/shreyamahalle?t=spbu2fcdxoi30ditj-uiyw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/shreyamahalle?t=spbu2fcdxoi30ditj-uiyw&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/shreyamahalle?t=spbu2fcdxoi30ditj-uiyw&s=09" /></a> </p>
 
 - 📝 I regularly write articles on [shreyamahalle.blogspot.com](shreyamahalle.blogspot.com)
 
