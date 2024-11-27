@@ -30,9 +30,7 @@ t=spbu2fcdxoi30ditj-uiyw&s=09" height="30" width="40" /></a><a href="https://lin
 <a href="https://instagram.com/https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
 alt="https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://m.youtube.com/@shreyamahalle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://m.youtube.com/@shreyamahalle_" height="30" width="40" /></a>
- [![Github](https://img.shields.io/github/followers/shreyamahalle?label=Follow&style=social)](https://github.com/shreyamahalle)
- [![Mail](https://img.shields.io/badge/sarthaknimse1999@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sarthaknimse1999@gmail.com)</p>
-
+ 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" 
   width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img 
