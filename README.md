@@ -74,13 +74,58 @@ alt="https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" height="30" 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://spring.io/"target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+<code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+<code><img height="50" src="https://img.icons8.com/color/344/notepad-plus-plus.png"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/blueprintjs/blueprintjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_activemq/apache_activemq-ar21.svg"></code>
+<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/apache-camel.svg"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
+<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/derby.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/quarkus.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-ar21.svg"></code>
+<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/fabric_io.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/wildfly/wildfly-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></code>
+<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
+<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
