@@ -87,10 +87,12 @@
   ![Visitor Count](https://profile-counter.glitch.me/{Shreyamahalle}/count.svg)
   
    ### Badges
-  | <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api? 
-  username=kodtodya&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Avadhut's github stats" /></a> | 
-  <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api/top- 
-  langs/?username=kodtodya&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+  | <a href="https://github.com/shreyamahalle/shreyamahalle"><img align="center" src="https://github-readme- 
+   stats.vercel.app/api? 
+  username=shreyamahalle&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Avadhut's github stats" /> 
+  </a> | 
+  <a href="https://github.com/shreyamahalle/shreyamahalle"><img align="center" src="https://github-readme-stats.vercel.app/api/top- 
+  langs/?username=shreyamahalle&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
   | ------------- | ------------- |
 
 
