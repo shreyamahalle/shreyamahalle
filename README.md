@@ -3,11 +3,11 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="280" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyamahalle&label=Profile%20views&color=0e75b6&style=flat" alt="shreyamahalle" /> </p>
 
-  ## About Me 👋
+   ## About Me 👋
 - 🌍 I'm based in Pune, India
 - 👀 I’m interested in coding and software development.
 - 💞️ I’m looking to collaborate on Java Projects.
@@ -79,14 +79,20 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyamahalle&show_icons=true&locale=en" alt="shreyamahalle" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyamahalle&" alt="shreyamahalle" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyamahalle&" alt="shreyamahalle" /> 
+  </p>
 
-  <b>My GitHub Stats</b>
-
-  <a href="http://www.github.com/shreyamahalle"><img src="https://github-readme-streak-stats.herokuapp.com/? 
+  
   ## Profile Visits
   ![Visitor Count](https://profile-counter.glitch.me/{Shreyamahalle}/count.svg)
-   </a>user=shreyamahalle&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  
+   ### Badges
+  | <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api? 
+  username=kodtodya&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Avadhut's github stats" /></a> | 
+  <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api/top- 
+  langs/?username=kodtodya&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+  | ------------- | ------------- |
+
 
   <a href="http://www.github.com/shreyamahalle"><img src="https://activity-graph.herokuapp.com/graph? 
   username=shreyamahalle&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
