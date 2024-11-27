@@ -96,11 +96,8 @@
   
 
   ### Badges
-  | <a href="https://github.com/shreyamahalle/shreyamahalle"><img align="center" src="https://github-readme-stats.vercel.app/api? 
-  username=shreyamahalle&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Shreya's github stats" /></a> | <a 
-  href="https://github.com/shreyamahalle/shreyamahalle"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/? 
-  username=shreyamahalle&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
-  | ------------- | ------------- |
+| <a href="https://github.com/shreyamahalle/shreyamahalle"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyamahalle&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Shreya's github stats" /></a> | <a href="https://github.com/shreyamahalle/shreyamahalle"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamahalle&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
 
   <b>My GitHub Stats</b>
 
