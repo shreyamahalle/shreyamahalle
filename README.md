@@ -86,8 +86,6 @@
   ## Profile Visits
   ![Visitor Count](https://profile-counter.glitch.me/{Shreyamahalle}/count.svg)
   
-  ## Profile Visits
-  ![Visitor Count](https://profile-counter.glitch.me/{kodtodya}/count.svg)
 
   ### Badges
   | <a href="https://github.com/shreyamahalle/shreyamahalle"><img align="center" src="https://github-readme-stats.vercel.app/api? 
