@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Shreyamahalle2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UTueDGJnSO87wNbUubMNP1L53JAokO6l/view?usp=drivesdk] 
+- 📄 Know about my experiences 
    (https://drive.google.com/file/d/1UTueDGJnSO87wNbUubMNP1L53JAokO6l/view?usp=drivesdk)
 
   <h3 align="left">Connect with me:</h3>
