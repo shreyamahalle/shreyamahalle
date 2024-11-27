@@ -7,6 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyamahalle&label=Profile%20views&color=0e75b6&style=flat" alt="shreyamahalle" /> </p>
 
+## About Me 👋
+- 🌍 I'm based in Pune, India
+- 👀 I’m interested in coding and software development.
+- 💞️ I’m looking to collaborate on Java Projects.
+- 📫 How to reach me https://github.com/Shreyamahalle
+- 
 
 - 📝 I regularly write articles on [shreyamahalle.blogspot.com](shreyamahalle.blogspot.com)
 
