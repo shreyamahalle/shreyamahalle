@@ -5,10 +5,12 @@
 I’m a passionate Software Development Engineer with a strong interest in solving complex challenges related to Large-Scale Distributed Systems. As a fresher, I am eager to apply my foundational knowledge and skills to real-world projects, focusing on areas like Distributed Systems, Real-Time Data Streaming, and Low-Latency System Design.
 
 I have a solid understanding of technologies such as Java, Spring, Spring Boot, and Apache Camel, and I’m excited to learn and grow in these areas to create scalable and efficient solutions. My enthusiasm for open-source development drives me to explore new technologies and contribute to the community.
+
 Eager to build my career, I thrive in collaborative environments and am excited to take on challenges that will help me grow as a Full-Stack Developer.
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyamahalle&label=Profile%20views&color=0e75b6&style=flat" alt="shreyamahalle" /> </p>
 
