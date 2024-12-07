@@ -147,7 +147,7 @@ alt="https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" height="30" 
 
   
 ## My GitHub Stats & Badges
- <img src="https://github-profile-trophy.vercel.app/?username=shreyamahalle" alt="shreyamahalle" /> 
+| <img src="https://github-profile-trophy.vercel.app/?username=shreyamahalle" alt="shreyamahalle" /> |
 | <a href="https://github.com/shreyamahalle/shreyamahalle"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyamahalle&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Avadhut's github stats" /></a> | <a href="https://github.com/shreyamahalle/shreyamahalle"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamahalle&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
