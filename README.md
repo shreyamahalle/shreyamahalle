@@ -21,19 +21,17 @@ Eager to build my career, I thrive in collaborative environments and am excited 
 - 👀 I’m interested in coding and software development.
 - 💞️ I’m looking to collaborate on Java Projects.
 - 📫 How to reach me https://github.com/Shreyamahalle
-  
- </td>
-    <td align="right"><img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" 
-     width="80%" height="30%"/></td>
-   </tr>
-   </table>
-
 - 📝 I regularly write articles on [shreyamahalle.blogspot.com](shreyamahalle.blogspot.com)
 
 - 📫 How to reach me **Shreyamahalle2000@gmail.com**
 
 - 📄 Know about my experiences
 - (https://drive.google.com/file/d/1UTueDGJnSO87wNbUubMNP1L53JAokO6l/view?usp=drivesdk)
+  </td>
+    <td align="right"><img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" 
+     width="80%" height="30%"/></td>
+   </tr>
+   </table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
