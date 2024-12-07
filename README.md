@@ -8,22 +8,25 @@ I have a solid understanding of technologies such as Java, Spring, Spring Boot, 
 
 Eager to build my career, I thrive in collaborative environments and am excited to take on challenges that will help me grow as a Full-Stack Developer.
 
- </td>
-    <td align="right"><img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" 
-     width="80%" height="30%"/></td>
-   </tr>
+
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyamahalle&label=Profile%20views&color=0e75b6&style=flat" alt="shreyamahalle" /> </p>
 
-
+<table border="0px">
+   <tr>
+    <td width="50%">
 ## About Me 👋
 - 🌍 I'm based in Pune, India
 - 👀 I’m interested in coding and software development.
 - 💞️ I’m looking to collaborate on Java Projects.
 - 📫 How to reach me https://github.com/Shreyamahalle
   
-
+ </td>
+    <td align="right"><img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" 
+     width="80%" height="30%"/></td>
+   </tr>
+   </table>
 
 - 📝 I regularly write articles on [shreyamahalle.blogspot.com](shreyamahalle.blogspot.com)
 
