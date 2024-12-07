@@ -15,7 +15,7 @@ Eager to build my career, I thrive in collaborative environments and am excited 
 
 <table border="0px">
    <tr>
-    <td width="50%">
+    <td width="80%">
 ## About Me 👋
 - 🌍 I'm based in Pune, India
 - 👀 I’m interested in coding and software development.
