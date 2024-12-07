@@ -141,7 +141,11 @@ alt="https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" height="30" 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  
+## Profile Visits
+|![Visitor Count]
+(https://profile-counter.glitch.me/{kodtodya}/count.svg)|<a href="http://www.github.com/kodtodya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kodtodya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>|
+| ------------- | ------------- |
+
 
   
 ## My GitHub Stats & Badges
