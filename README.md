@@ -1,4 +1,4 @@
-![logo](https://github.com/shreyamahalle/shreyamahalle/blob/main/Banner.png)
+![logo](https://github.com/shreyamahalle/shreyamahalle/blob/main/Banner..png)
 <h1 align="center">Hi 👋, I'm Shreya Mahalle</h1>
 <h3 align="center">Full Stack Developer </h3>
 
