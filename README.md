@@ -142,11 +142,7 @@ alt="https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" height="30" 
 
 ## Profile Visits
 |![Visitor Count](https://profile-counter.glitch.me/{shreyamahalle}/count.svg)|<a href="http://www.github.com/shreyamahalle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyamahalle&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>|
-<a href="https://github.com/kodtodya">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kodtodya&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</a>
-
-
+| ------------- | ------------- |
 
 
 ## GitHub Activity Graph
