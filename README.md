@@ -8,7 +8,6 @@ I have a solid understanding of technologies such as Java, Spring, Spring Boot, 
 
 Eager to build my career, I thrive in collaborative environments and am excited to take on challenges that will help me grow as a Full-Stack Developer.
 
-
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyamahalle&label=Profile%20views&color=0e75b6&style=flat" alt="shreyamahalle" /> </p>
 
