@@ -94,14 +94,6 @@ alt="https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" height="30" 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
 
-## Social Media Handles
-[![Github](https://img.shields.io/github/followers/kodtodya?label=Follow&style=social)](https://github.com/kodtodya)
-[![Linkedin](https://img.shields.io/badge/-kodtodya-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/kodtodya/)
-[![Twitter](https://img.shields.io/twitter/follow/kodtodya?style=social&logo=twitter&logoColor=white&link=)](https://www.twitter.com/kodtodya/)
-[![kodtodya-website](https://img.shields.io/badge/kodtodya-website-orange)](https://kodtodya.github.io/)
-[![Mail](https://img.shields.io/badge/-kodtodya.talks@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:kodtodya.talks@gmail.com)
-
-
 ## Profile Visits
 |![Visitor Count](https://profile-counter.glitch.me/{shreyamahalle}/count.svg)|<a href="http://www.github.com/shreyamahalle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyamahalle&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>|
 | ------------- | ------------- | 
