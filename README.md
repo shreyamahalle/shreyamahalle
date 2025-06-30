@@ -25,7 +25,7 @@ Eager to build my career, I thrive in collaborative environments and am excited 
     <td width="50%">
      
  - 🌍 I'm based in Pune, India. 
- - 👀 I’m interested in coding and software development.
+ - 👨‍💻 Passionate about Coding and Software Development.
  - 💞️ I’m looking to collaborate on Java Projects.
  - 🌐 Portfolio : [shreyamahalle.github.io](https://shreyamahalle.github.io/)
  - 📫 How to reach me https://github.com/Shreyamahalle
@@ -38,45 +38,6 @@ Eager to build my career, I thrive in collaborative environments and am excited 
    width="80%" height="30%"/></td>
    </tr>
    </table>
-
-
-
-
-<h3>👋 About Me</h3>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      
-<ul>
-  <li>🌍 Based in <strong>Pune, India</strong></li>
-  <li>👨‍💻 Passionate about <strong>Coding</strong> and <strong>Software Development</strong></li>
-  <li>💡 Looking to collaborate on <strong>Java Projects</strong></li>
-  <li>🌐 Portfolio: <a href="https://shreyamahalle.github.io/" target="_blank">shreyamahalle.github.io</a></li>
-  <li>📂 GitHub: <a href="https://github.com/shreyamahalle" target="_blank">github.com/shreyamahalle</a></li>
-  <li>📝 I write technical blogs: <a href="https://shreyamahalle.blogspot.com" target="_blank">shreyamahalle.blogspot.com</a></li>
-  <li>📧 Email: <a href="mailto:shreyaamahalle@gmail.com">shreyaamahalle@gmail.com</a></li>
-  <li>📄 Resume: <a href="https://drive.google.com/file/d/1UTueDGJnSO87wNbUubMNP1L53JAokO6l/view?usp=drivesdk" target="_blank">View my Resume</a></li>
-</ul>
-
-    </td>
-    
-    <td align="right">
-      <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="80%" height="30%" alt="Coding animation" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-  
-
 
 
 <h3 align="left">Connect with me:</h3>
