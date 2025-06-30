@@ -40,6 +40,39 @@ t=spbu2fcdxoi30ditj-uiyw&s=09" height="30" width="40" /></a><a href="https://lin
 <a href="https://instagram.com/https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
 alt="https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://m.youtube.com/@shreyamahalle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://m.youtube.com/@shreyamahalle_" height="30" width="40" /></a>
+
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/shreyamahalle?t=spbu2fcdxoi30ditj-uiyw&s=09" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/shreya-mahalle-254657176/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/share/zehzosvfpsd5ntwl/?mibextid=qi2omg" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/shreyamahalle?igsh=ote4otbzcmi1ndvh" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+
+<a href="https://m.youtube.com/@shreyamahalle_" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
+</p>
+
+
+
+
+
  
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"/></code>
