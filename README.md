@@ -43,54 +43,6 @@ Eager to build my career, I thrive in collaborative environments and am excited 
 
 
 
-<h3 align="center" style="color: #0891B2; border-bottom: 2px solid #0891B2; padding-bottom: 8px;">About Me</h3>
-
-<table border="0" style="width: 100%; border-collapse: collapse;">
-   <tr>
-      <td style="width: 55%; vertical-align: top; padding-right: 20px;">
-         <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-            <li style="margin-bottom: 12px; display: flex; align-items: center;">
-               <span style="color: #0891B2; margin-right: 10px;">📍</span>
-               <span>Based in <strong>Pune, India</strong></span>
-            </li>
-            <li style="margin-bottom: 12px; display: flex; align-items: center;">
-               <span style="color: #0891B2; margin-right: 10px;">👩‍💻</span>
-               <span>Passionate about <strong>coding and software development</strong></span>
-            </li>
-            <li style="margin-bottom: 12px; display: flex; align-items: center;">
-               <span style="color: #0891B2; margin-right: 10px;">🤝</span>
-               <span>Seeking collaboration on <strong>Java projects</strong></span>
-            </li>
-            <li style="margin-bottom: 12px; display: flex; align-items: center;">
-               <span style="color: #0891B2; margin-right: 10px;">📧</span>
-               <span>Portfolio: <a href="https://shreyamahalle.github.io/" style="color: #0891B2; text-decoration: none;">shreyamahalle.github.io</a></span>
-            </li>
-            <li style="margin-bottom: 12px; display: flex; align-items: center;">
-               <span style="color: #0891B2; margin-right: 10px;">🔗</span>
-               <span>GitHub: <a href="https://github.com/Shreyamahalle" style="color: #0891B2; text-decoration: none;">github.com/Shreyamahalle</a></span>
-            </li>
-            <li style="margin-bottom: 12px; display: flex; align-items: center;">
-               <span style="color: #0891B2; margin-right: 10px;">✍️</span>
-               <span>Technical blog: <a href="shreyamahalle.blogspot.com" style="color: #0891B2; text-decoration: none;">shreyamahalle.blogspot.com</a></span>
-            </li>
-            <li style="margin-bottom: 12px; display: flex; align-items: center;">
-               <span style="color: #0891B2; margin-right: 10px;">📩</span>
-               <span>Email: <strong>Shreyaamahalle@gmail.com</strong></span>
-            </li>
-            <li style="margin-bottom: 12px; display: flex; align-items: center;">
-               <span style="color: #0891B2; margin-right: 10px;">📄</span>
-               <span>View my <a href="https://drive.google.com/file/d/1UTueDGJnSO87wNbUubMNP1L53JAokO6l/view?usp=drivesdk" style="color: #0891B2; text-decoration: none;">professional resume</a></span>
-            </li>
-         </ul>
-      </td>
-      <td style="width: 45%; text-align: right;">
-         <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" 
-         style="width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-      </td>
-   </tr>
-</table>
-
-
 
 
 
