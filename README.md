@@ -22,7 +22,7 @@ Eager to build my career, I thrive in collaborative environments and am excited 
  - 📫 How to reach me https://github.com/Shreyamahalle
  - 📝 I regularly write articles on [shreyamahalle.blogspot.com](shreyamahalle.blogspot.com)
  - 📫 How to reach me **Shreyamahalle2000@gmail.com**
- - 📧 How to reach me : shreyamahalle.github.io
+ - 📧 How to reach me : [shreyamahalle.github.io](https://shreyamahalle.github.io/)
  - 📄 Know about my experiences
  - (https://drive.google.com/file/d/1UTueDGJnSO87wNbUubMNP1L53JAokO6l/view?usp=drivesdk)
   </td>
