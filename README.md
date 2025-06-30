@@ -9,7 +9,6 @@
 
 <br/>
 
-
 I’m a passionate Software Development Engineer with a strong interest in solving complex challenges related to Large-Scale Distributed Systems. As a fresher, I am eager to apply my foundational knowledge and skills to real-world projects, focusing on areas like Distributed Systems, Real-Time Data Streaming, and Low-Latency System Design.
 
 I have a solid understanding of technologies such as Java, Spring, Spring Boot, and Apache Camel, and I’m excited to learn and grow in these areas to create scalable and efficient solutions. My enthusiasm for open-source development drives me to explore new technologies and contribute to the community.
