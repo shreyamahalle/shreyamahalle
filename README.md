@@ -110,6 +110,7 @@ Eager to build my career, I thrive in collaborative environments and am excited 
   </a>
   
   <br/>
+
   
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyamahalle&bg_color=ffffff&color=333&line=0891B2&point=0891B2&area=true&hide_border=true)
   
