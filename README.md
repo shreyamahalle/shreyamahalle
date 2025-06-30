@@ -48,6 +48,35 @@ Eager to build my career, I thrive in collaborative environments and am excited 
 
 
 
+<h3 align="center" style="border-bottom: 2px solid #0891B2; padding-bottom: 10px;">About Me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+
+<table border="0" style="width:100%; border-collapse: collapse;">
+   <tr>
+    <td style="width:55%; vertical-align: top; padding-right: 20px;">
+      <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+        <ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
+          <li style="margin-bottom: 10px;">📍 <strong>Location:</strong> Pune, India</li>
+          <li style="margin-bottom: 10px;">💻 <strong>Interests:</strong> Coding and software development</li>
+          <li style="margin-bottom: 10px;">🤝 <strong>Collaboration:</strong> Java Projects</li>
+          <li style="margin-bottom: 10px;">🌐 <strong>Portfolio:</strong> <a href="https://shreyamahalle.github.io/" style="color: #0891B2; text-decoration: none;">shreyamahalle.github.io</a></li>
+          <li style="margin-bottom: 10px;">📝 <strong>Blog:</strong> <a href="shreyamahalle.blogspot.com" style="color: #0891B2; text-decoration: none;">shreyamahalle.blogspot.com</a></li>
+          <li style="margin-bottom: 10px;">📧 <strong>Email:</strong> <a href="mailto:Shreyaamahalle@gmail.com" style="color: #0891B2; text-decoration: none;">Shreyaamahalle@gmail.com</a></li>
+          <li style="margin-bottom: 10px;">📄 <strong>Resume:</strong> <a href="https://drive.google.com/file/d/1UTueDGJnSO87wNbUubMNP1L53JAokO6l/view?usp=drivesdk" style="color: #0891B2; text-decoration: none;">View my resume</a></li>
+          <li style="margin-bottom: 10px;">👨‍💻 <strong>GitHub:</strong> <a href="https://github.com/Shreyamahalle" style="color: #0891B2; text-decoration: none;">github.com/Shreyamahalle</a></li>
+        </ul>
+      </div>
+    </td>
+    <td style="width:45%; text-align: center; vertical-align: middle;">
+      <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" 
+      style="width: 80%; max-width: 400px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"/>
+    </td>
+   </tr>
+</table>
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
